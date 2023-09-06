@@ -1,0 +1,31 @@
+body {
+    background-image:url("https://media.istockphoto.com/id/1145059454/photo/audio-speaker-background-with-neon-lights.jpg?s=612x612&w=is&k=20&c=Gl54q78xRCPiyibdsZwOzwvHdsVok-mEB6IEZeo5ESI=");
+    background-repeat: repeat;
+   margin: 0px;
+}
+
+header{
+    background: navy;
+    font: white;
+    text-align: center;
+}
+main {
+    background: lightgray;
+    padding: 1em;
+    font-size: 22px;
+}
+
+.repeatingimage {
+    height: 10px;
+    width: 10px;
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+
+
+
+
+
+
