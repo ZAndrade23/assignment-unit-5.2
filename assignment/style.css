@@ -4,15 +4,17 @@ body {
    margin: 0px;
 }
 
-header{
-    background: navy;
-    font: white;
+.content-header{
+    background: darkmagenta;
+    color: white;
     text-align: center;
 }
-main {
+
+.content-main {
     background: lightgray;
     padding: 1em;
     font-size: 22px;
+    text-align:center;
 }
 
 .repeatingimage {
